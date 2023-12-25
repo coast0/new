@@ -211,6 +211,8 @@ body {
 .container p {
     font-size:21px;
 }
+
+
 .btn_one {
     font-size:18px;
     font-family: 'Josefin Sans', sans-serif;
@@ -222,6 +224,7 @@ body {
     font-weight:bold;
     margin:2vh 10px;
     transition:0.4s ease-in-out;
+
 }
 .btn_one:hover {
     cursor:pointer;
